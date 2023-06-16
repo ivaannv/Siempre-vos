@@ -152,6 +152,16 @@
     background-image: url(./img/art-806.jpeg);
 }
 
+.foto-8{
+    background-image: url(./img/art5030.jpeg);
+}
+
+.foto-9{
+    background-image: url(./img/art5047.jpeg);
+}
+
+
+
 
 .grid-item:hover{
     transform: scale(1.01);
