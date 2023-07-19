@@ -110,8 +110,8 @@
   }
 
 .grid-item{
-    background-color: white;
-    height: 400px;
+	background-color: white;
+	height: 400px;
     width: 320px;
     border-radius: 15px ;
     margin: 10px;
@@ -161,6 +161,9 @@
 }
 .foto-10{
     background-image: url(./img/art-1086.jpeg);
+}
+.foto-11{
+    background-image: url(./img/art5045\ \(3\).jpeg);
 }
 
 
